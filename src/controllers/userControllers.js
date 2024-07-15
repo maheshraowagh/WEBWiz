@@ -1,5 +1,5 @@
 import User from '../models/userModels.js'
-import bcrypt from 'bcrypt'
+import bcrypt from 'bcryptjs'
 
 
 // Home router
