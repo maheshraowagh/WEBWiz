@@ -20,7 +20,7 @@ const app = express();
 
 // CORS options
 const corsOptions = {
-    origin: "http://localhost:5174",
+    origin: "https://mern1-pro-frontend-pf85.onrender.com",
     methods: "GET, POST, DELETE, PATCH, HEAD",
     credentials: true
 };
